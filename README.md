@@ -54,7 +54,7 @@ A modern web application for Zimbabwean parents to send money to their children 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wiremit-app.git
+git clone https://github.com/Hello007-wq/wiremit-app.git
 cd wiremit-app
 ```
 
