@@ -54,8 +54,8 @@ A modern web application for Zimbabwean parents to send money to their children 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Hello007-wq/wiremit-app.git
-cd wiremit-app
+git clone https://github.com/Hello007-wq/flex-wiremit.git
+cd fle-wiremit
 ```
 
 2. Install dependencies:
